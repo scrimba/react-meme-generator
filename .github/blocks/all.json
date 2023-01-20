@@ -1,5 +1,8 @@
 {
   "intro.scrim": {
     "default": "Pistus__scrimba-block__scrim-block"
+  },
+  "": {
+    "default": "Pistus__scrimba-block__scrims-block"
   }
 }
