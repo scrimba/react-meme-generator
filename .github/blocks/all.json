@@ -4,5 +4,8 @@
   },
   "": {
     "default": "Pistus__scrimba-block__scrims-block"
+  },
+  "recap.scrim": {
+    "default": "Pistus__scrimba-block__scrim-block"
   }
 }
